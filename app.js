@@ -1,3 +1,5 @@
+'use strict';
+
 let someData = prompt("Pick a number");
 
 someData = parseInt(someData);
